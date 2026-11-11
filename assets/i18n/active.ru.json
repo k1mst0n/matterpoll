@@ -1,6 +1,6 @@
 {
   "bot.description": "Бот для опросов",
-  "command.autoComplete.desc": "Создать голосование",
+  "command.autoComplete.desc": "Создать опрос",
   "command.autoComplete.hint": "\"[Текст вопроса]\" \"[Ответ 1]\" \"[Ответ 2]\"...",
   "command.default.no": "Нет",
   "command.default.yes": "Да",
