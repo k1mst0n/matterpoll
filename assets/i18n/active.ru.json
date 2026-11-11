@@ -39,7 +39,7 @@
   },
   "poll.endPost.answer.heading": {
     "one": "{{.Answer}} ({{.Count}} ответ)",
-    "few": "{{.Answer}} ({{.Count}} ответа)",
+    "few": "{{.Answer}} ({{.Count}} ответов)",
     "many": "{{.Answer}} ({{.Count}} ответов)"
   },
   "poll.endPost.separator": "И",
